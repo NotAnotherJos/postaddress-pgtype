@@ -1,7 +1,6 @@
 # MALH: Multi-Attribute Linear Hashed Files
 
-A tiny storage engine implementing **multi-attribute hashing** + **linear hashing**,
-with a simple CLI to **create**, **insert**, **query** and **inspect stats** of a relation.
+A lightweight storage engine implementing multi-attribute and linear hashing, featuring a command-line interface for relation creation, insertion, querying, and statistical inspection.
 
 ## ✨ Features
 - **Multi-attribute hashing (MAH)** via a **choice vector** to combine hash bits from
