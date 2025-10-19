@@ -29,7 +29,7 @@ with a simple CLI to **create**, **insert**, **query** and **inspect stats** of 
   - pattern with `%` (zero or more chars).  
 - **Projection**: choose attribute indexes or `*`.
 
-## Build
+## 📦 Build
 
     make    # builds: create, insert, query, stats, dump, gendata
 
